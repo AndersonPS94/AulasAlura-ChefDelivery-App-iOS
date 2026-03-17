@@ -61,7 +61,7 @@ Este projeto faz parte da formação de iOS da Alura. Durante as aulas, foram ab
 
 **Anderson Pereira Santos**
 - GitHub: [@AndersonPS94](https://github.com/AndersonPS94)
-- LinkedIn: [Anderson Pereira Santos](https://www.linkedin.com/in/anderson-pereira-santos/)
+- LinkedIn: [Anderson Pereira Santos](https://www.linkedin.com/in/andersonps94/)
 
 ---
 
